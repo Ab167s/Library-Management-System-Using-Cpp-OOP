@@ -1,0 +1,10 @@
+# Ignore compiled binaries
+*.exe
+*.out
+
+# Ignore data files
+*.txt
+
+# Ignore IDE files
+.vscode/
+.idea/
