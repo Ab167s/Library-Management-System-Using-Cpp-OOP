@@ -14,6 +14,12 @@ A console-based application to manage library operations like adding books, issu
    - **Linux/Mac**: `./library`  
    - **Windows**: `library.exe`
 
-## Default Admin Login
+## Admin Login
 - **Username**: `admin`  
 - **Password**: `admin123`
+## Librarian Login
+- **Username**: `lib`
+- **Password**: `lib123`
+## Student Login
+- **Username**: `std`
+- **Password**: `std123`
